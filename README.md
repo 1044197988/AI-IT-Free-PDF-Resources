@@ -41,6 +41,12 @@ graph TD
 *   **数据库技术**：MySQL、NoSQL、分布式数据库、性能调优，数据世界的规则由你掌握。
 *   **以及更多……** 语音识别、时间序列分析、无线通信、软件工程、Git版本控制、高效学习方法……我们力求涵盖技术人的方方面面。
 
+### 如何下载？
+
+请访问以下网址，即可免费获取您所需的文档：
+
+[https://www.aiknowledge.cn/home/view_doc?id=12063](https://www.aiknowledge.cn/home/view_doc?id=12063)
+
 
 ### 具体请看如下：📚 免费的AI、IT领域PDF资源大放送 📚
 
@@ -184,3 +190,9 @@ graph TD
 *   **《版本控制工具：Git 基础与进阶》**
 *   **《单元测试与集成测试实践》**
 *   **《高效学习编程的方法与技巧》**
+
+### 如何下载？
+
+请访问以下网址，即可免费获取您所需的文档：
+
+[https://www.aiknowledge.cn/home/view_doc?id=12063](https://www.aiknowledge.cn/home/view_doc?id=12063)
